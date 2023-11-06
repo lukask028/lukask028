@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukask028
 - 👀 I’m interested in ... desenvolver minhas habilidades na programação
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/lucas-lourenço-da-silva-427534156/
                           email: lukask202123@gmail.com
